@@ -110,16 +110,16 @@ Use Postman or similar tool for API testing:
 ## Screeshots
 
 ### 1. Register (POST)
-![alt text](image.png)
+![alt text](/screenshots/image.png)
 
 ### 2. Login (POST)
-![alt text](image-1.png)
+![alt text](/screenshots/image-1.png)
 
 ### 3. Create Expense (POST)
-![alt text](image-2.png)
+![alt text](/screenshots/image-2.png)
 
 ### 4. List Records (GET)
-![alt text](image-3.png)
+![alt text](/screenshots/image-3.png)
 
 ### 5. Delete Record by Id (DELETE)
-![alt text](image-4.png)
+![alt text](/screenshots/image-4.png)
