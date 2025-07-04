@@ -33,6 +33,7 @@ Supports multiple users, permission control, tax calculation, and pagination.
 git clone https://github.com/uzwal01/expense-tracker-django
 cd expense_tracker
 
+```
 
 ### 2. Create and activate virtual environment
 
@@ -40,12 +41,14 @@ cd expense_tracker
 python -m venv env
 source env/bin/activate  # Windows: env\Scripts\activate
 
+```
 
 ### 3. Install Dependencies
 
 ```bash
 pip install -r requirements.txt
 
+```
 
 ### 4. Run migrations
 
@@ -53,20 +56,21 @@ pip install -r requirements.txt
 python manage.py makemigrations
 python manage.py migrate
 
+```
 
 ### 5. Create Superuser(optional)
 
 ```bash
 python manage.py createsuperuser
 
-
+```
 
 ### 6. Start the server
 
 ```bash
 python manage.py runserver
 
----
+```
 
 ## API Endpoints
 
