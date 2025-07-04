@@ -105,3 +105,21 @@ Use Postman or similar tool for API testing:
 
 - Test CRUD and permission edge cases as explained in the walkthrough
 
+---
+
+## Screeshots
+
+### 1. Register (POST)
+![alt text](image.png)
+
+### 2. Login (POST)
+![alt text](image-1.png)
+
+### 3. Create Expense (POST)
+![alt text](image-2.png)
+
+### 4. List Records (GET)
+![alt text](image-3.png)
+
+### 5. Delete Record by Id (DELETE)
+![alt text](image-4.png)
